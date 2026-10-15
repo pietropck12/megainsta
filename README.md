@@ -1,9 +1,15 @@
-# Mega Insta - Atualizacoes
+# Mega Insta - Atualizações
 
-Repositorio publico utilizado exclusivamente para distribuir instaladores oficiais do Mega Insta por meio do GitHub Releases.
+Repositório público utilizado exclusivamente para distribuir instaladores oficiais do Mega Insta por meio do GitHub Releases.
 
-O codigo-fonte do aplicativo nao e publicado neste repositorio.
+O código-fonte do aplicativo não é publicado neste repositório.
 
-## Versao atual
+## Versão atual
 
-**v2.10.10** - corrige a extracao de dados de perfis apos a mudanca dos endpoints internos do Instagram. A consulta agora reutiliza a sessao autenticada do navegador interno, preservando planos, licencas, dados e configuracoes existentes.
+**v2.10.25** — corrige a busca de perfis utilizando a sessão do navegador interno e os dados carregados na página do Instagram. Inclui validação do perfil consultado e exibição das mídias carregadas, com indicação de lista parcial.
+
+[Baixar o instalador completo v2.10.25](https://github.com/pietropck12/megainsta/releases/download/v2.10.25/MegaInsta_Instalador_COMPLETO_v2.10.25.exe)
+
+[Consultar a versão mais recente](https://github.com/pietropck12/megainsta/releases/latest)
+
+As limitações de acesso e de quantidade de resultados impostas pelo Instagram continuam sendo respeitadas. A atualização não garante a obtenção de todos os seguidores ou de todas as publicações.
